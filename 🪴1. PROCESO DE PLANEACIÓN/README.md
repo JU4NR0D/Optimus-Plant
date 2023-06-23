@@ -32,7 +32,11 @@ Con esta información detallada, podemos proceder con el proceso de adquisición
 
 # Diagrama de Caja Negra - Con Tecnología
 
-Una vez ya seleccionados los materiales a utilizar, se realiza otro diagrama de Caja Negra, esta vez con la tecnologia clara.
+Una vez seleccionados los materiales a utilizar, se procede a realizar otro diagrama de Caja Negra, pero esta vez con la tecnología clara. Este se utiliza para comunicar y comprender mejor el sistema o componente en cuestión, facilitando la colaboración entre equipos y asegurando una comprensión clara de las funcionalidades y comportamientos esperados.
+
+Es importante destacar que, aunque el diagrama de Caja Negra con tecnología clara no revela los detalles internos, se basa en la información obtenida durante la selección de los materiales y se alinea con los requisitos y objetivos establecidos previamente.
+
+![Diagrama de Caja Negra - Con Tecnología](https://github.com/JU4NR0D/Optimus-Plant/assets/136518038/f41298b5-9874-40bc-a014-e7ca6fa4db0b)
 
 
 # Tableros de Apoyo
@@ -55,5 +59,5 @@ Durante la discusión en clase, se establecieron plazos y responsabilidades para
 
 En conjunto, el análisis de las conexiones de los componentes y la definición de las tareas a realizar en los próximos días nos permiten tener una visión clara y detallada de la fase de diseño y realización del proyecto. Con esta información, estamos preparados para avanzar con confianza y seguir alcanzando los objetivos establecidos.
 
-
+## [CON ESTO YA DETERMINADO, PROCEDEMOS A LA FASE 2. PROCESO DE DISEÑO →](https://github.com/JU4NR0D/Optimus-Plant/edit/main/%F0%9F%AA%B41.%20PROCESO%20DE%20PLANEACI%C3%93N/README.md)
 

@@ -49,8 +49,8 @@ Entre las características principales de la placa, se destacan:
 Por último se adjuntan imagenes del visor 3D que nos ofrece el software, para mejorar la comprensión de las conexiones.
 
 ![VISOR 3D PCB_page-0001](https://github.com/JU4NR0D/Optimus-Plant/assets/136518038/8a15eac5-a191-4d69-b954-c35d891e5ee6)
-
 ![VISOR 3D PCB_page-0002](https://github.com/JU4NR0D/Optimus-Plant/assets/136518038/7456ea90-84a6-437a-bc3a-c5ecb83dbbae)
-
 ![VISOR 3D PCB_page-0003](https://github.com/JU4NR0D/Optimus-Plant/assets/136518038/a54b3aa9-bea5-4b4e-bbb0-2d9887d05cd5)
+
+[YA ESTAMOS LISTOS PARA NUESTRA SIGUIENTE FASE: PROCESO DE UNIFICACIÓN, ACOMPAÑANOS!](https://github.com/JU4NR0D/Optimus-Plant/assets/136518038/8a15eac5-a191-4d69-b954-c35d891e5ee6)
 

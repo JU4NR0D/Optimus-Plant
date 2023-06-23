@@ -46,14 +46,16 @@ Entre las características principales de la placa, se destacan:
 - Conexiones claras: Las conexiones entre los componentes se realizaron de manera clara y precisa, asegurando un flujo adecuado de la información y minimizando la posibilidad de interferencias o cortocircuitos.
 - Ruteo optimizado: Se tuvo en cuenta la ubicación de los componentes y las rutas de señal para lograr un ruteo eficiente, evitando cruces innecesarios y garantizando un buen rendimiento del circuito. Además de garantizar las reglas de ruteo, donde VCC y GND tenían un ancho de vía de 1.6mm y las demás señales tenían 1.2mm
 
-Por último se adjuntan imagenes del visor 3D que nos ofrece el software, para mejorar la comprensión de las conexiones.
+Se manda a fabricar con Yahiko electronica, donde nos pedían los archivos: Gerber con los drilling holes y PDF de la placa, adjuntos en este repositorio.
+[Gerber fabricación de placa](https://github.com/JU4NR0D/Optimus-Plant/tree/main/%F0%9F%AA%B4%202.%20PROCESO%20DE%20DISE%C3%91O/3.%20%F0%9F%8C%BFPCB/2.%20%F0%9F%8C%B1%20GERBER%20PARA%20FABRICACI%C3%93N) Y [PDF fabricación de placa](https://github.com/JU4NR0D/Optimus-Plant/tree/main/%F0%9F%AA%B4%202.%20PROCESO%20DE%20DISE%C3%91O/3.%20%F0%9F%8C%BFPCB/3.%20%F0%9F%8C%B1%20PDF%20PARA%20FABRICACI%C3%93N). Esperando que quede así:
+
+*Se adjuntan imagenes del visor 3D que nos ofrece el software.
 
 ![VISOR 3D PCB_page-0001](https://github.com/JU4NR0D/Optimus-Plant/assets/136518038/8a15eac5-a191-4d69-b954-c35d891e5ee6)
 ![VISOR 3D PCB_page-0002](https://github.com/JU4NR0D/Optimus-Plant/assets/136518038/7456ea90-84a6-437a-bc3a-c5ecb83dbbae)
 ![VISOR 3D PCB_page-0003](https://github.com/JU4NR0D/Optimus-Plant/assets/136518038/a54b3aa9-bea5-4b4e-bbb0-2d9887d05cd5)
 
-Se manda a fabricar con Yahiko electronica, donde nos pedían los archivos: Gerber con los drilling holes y PDF de la placa, adjuntos en este repositorio.
-[Gerber fabricación de placa](https://github.com/JU4NR0D/Optimus-Plant/tree/main/%F0%9F%AA%B4%202.%20PROCESO%20DE%20DISE%C3%91O/3.%20%F0%9F%8C%BFPCB/2.%20%F0%9F%8C%B1%20GERBER%20PARA%20FABRICACI%C3%93N) Y [PDF fabricación de placa](https://github.com/JU4NR0D/Optimus-Plant/tree/main/%F0%9F%AA%B4%202.%20PROCESO%20DE%20DISE%C3%91O/3.%20%F0%9F%8C%BFPCB/3.%20%F0%9F%8C%B1%20PDF%20PARA%20FABRICACI%C3%93N)
+
 
 [YA ESTAMOS LISTOS PARA NUESTRA SIGUIENTE FASE: PROCESO DE UNIFICACIÓN, ACOMPAÑANOS!](https://github.com/JU4NR0D/Optimus-Plant/tree/main/%F0%9F%AA%B4%203.%20PROCESO%20DE%20UNIFICACI%C3%93N)
 

@@ -48,8 +48,18 @@ Entre las características principales de la placa, se destacan:
 
 # Fabricación
 
-Se manda a fabricar con Yahiko electronica, donde nos pedían los archivos: Gerber con los drilling holes y PDF de la placa, adjuntos en este repositorio.
-[Gerber fabricación de placa](https://github.com/JU4NR0D/Optimus-Plant/tree/main/%F0%9F%AA%B4%202.%20PROCESO%20DE%20DISE%C3%91O/3.%20%F0%9F%8C%BFPCB/2.%20%F0%9F%8C%B1%20GERBER%20PARA%20FABRICACI%C3%93N) Y [PDF fabricación de placa](https://github.com/JU4NR0D/Optimus-Plant/tree/main/%F0%9F%AA%B4%202.%20PROCESO%20DE%20DISE%C3%91O/3.%20%F0%9F%8C%BFPCB/3.%20%F0%9F%8C%B1%20PDF%20PARA%20FABRICACI%C3%93N). Esperando que quede así:
+Se manda a fabricar con Yahiko electronica enviando un correo a yahikoelectronica@hotmail.com, donde nos pedían los archivos: Gerber con los drilling holes y PDF de la placa, adjuntos en este repositorio.
+[Gerber fabricación de placa](https://github.com/JU4NR0D/Optimus-Plant/tree/main/%F0%9F%AA%B4%202.%20PROCESO%20DE%20DISE%C3%91O/3.%20%F0%9F%8C%BFPCB/2.%20%F0%9F%8C%B1%20GERBER%20PARA%20FABRICACI%C3%93N) Y [PDF fabricación de placa](https://github.com/JU4NR0D/Optimus-Plant/tree/main/%F0%9F%AA%B4%202.%20PROCESO%20DE%20DISE%C3%91O/3.%20%F0%9F%8C%BFPCB/3.%20%F0%9F%8C%B1%20PDF%20PARA%20FABRICACI%C3%93N). Con las siguientes especificaciones:
+- Serigrafiado
+- 2 caras
+- Antisolder
+- Dimensiones: 15cm x 8cm
+- Cantidad de placas: 1
+
+El costo cotizado para Junio del 2023 fue de $40.000 COP.
+
+
+Se espera que quede así:
 
 *Se adjuntan imagenes del visor 3D que nos ofrece el software.
 

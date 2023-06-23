@@ -1,4 +1,4 @@
-# Protoboard con circuito
+# Componentes en Protoboard
 
 En la fase de diseño, nuestro objetivo principal es comprender las conexiones y funcionalidades de cada componente de forma individual en relación a la placa ESP32 en la protoboard. Para lograrlo, realizamos un análisis detallado de las características de cada componente, incluyendo su voltaje, la información que genera o necesita, y otros aspectos relevantes.
 

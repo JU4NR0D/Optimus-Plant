@@ -1,4 +1,4 @@
-#Programación
+# Programación
 
 En el proceso de desarrollo de nuestro proyecto, hemos trabajado en la programación de cada componente de forma individual. Sin embargo, para lograr la integración y consolidación de todos los componentes en un solo programa, hemos creado una carpeta adjunta que contiene el programa unificado.
 

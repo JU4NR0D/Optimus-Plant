@@ -36,4 +36,4 @@ Estas imágenes y explicaciones proporcionan una visión general de cada compone
 
 A través de este enlace te diriges a la carpeta que contiene la programación de cada componente por separado: [LINK A CARPETA →](https://github.com/JU4NR0D/Optimus-Plant/tree/main/%F0%9F%AA%B4%202.%20PROCESO%20DE%20DISE%C3%91O/2.%20%F0%9F%8C%BFPROGRAMAS)
 
-O puedes ver el proceso de elaboración de la PCB en este otro link: [LINK PCB→](https://github.com/JU4NR0D/Optimus-Plant/blob/main/%F0%9F%AA%B4%202.%20PROCESO%20DE%20DISE%C3%91O/README.md)
+O puedes ver el proceso de elaboración de la PCB en este otro link: [LINK PCB→](https://github.com/JU4NR0D/Optimus-Plant/tree/main/%F0%9F%AA%B4%202.%20PROCESO%20DE%20DISE%C3%91O/3.%20%F0%9F%8C%BFPCB)

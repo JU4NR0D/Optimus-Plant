@@ -59,5 +59,5 @@ Durante la discusión en clase, se establecieron plazos y responsabilidades para
 
 En conjunto, el análisis de las conexiones de los componentes y la definición de las tareas a realizar en los próximos días nos permiten tener una visión clara y detallada de la fase de diseño y realización del proyecto. Con esta información, estamos preparados para avanzar con confianza y seguir alcanzando los objetivos establecidos.
 
-[CON ESTO YA DETERMINADO, PROCEDEMOS A LA FASE 2. PROCESO DE DISEÑO →](https://github.com/JU4NR0D/Optimus-Plant/edit/main/%F0%9F%AA%B41.%20PROCESO%20DE%20PLANEACI%C3%93N/README.md)
+[CON ESTO YA DETERMINADO, PROCEDEMOS A LA FASE 2. PROCESO DE DISEÑO →](https://github.com/JU4NR0D/Optimus-Plant/blob/main/%F0%9F%AA%B4%202.%20PROCESO%20DE%20DISE%C3%91O/README.md)
 

@@ -52,5 +52,9 @@ Por último se adjuntan imagenes del visor 3D que nos ofrece el software, para m
 ![VISOR 3D PCB_page-0002](https://github.com/JU4NR0D/Optimus-Plant/assets/136518038/7456ea90-84a6-437a-bc3a-c5ecb83dbbae)
 ![VISOR 3D PCB_page-0003](https://github.com/JU4NR0D/Optimus-Plant/assets/136518038/a54b3aa9-bea5-4b4e-bbb0-2d9887d05cd5)
 
+Se manda a fabricar con Yahiko electronica, donde nos pedían los archivos: Gerber con los drilling holes y PDF de la placa, adjuntos en este repositorio.
+[Gerber fabricación de placa](https://github.com/JU4NR0D/Optimus-Plant/tree/main/%F0%9F%AA%B4%203.%20PROCESO%20DE%20UNIFICACI%C3%93N)
+[PDF fabricación de placa](https://github.com/JU4NR0D/Optimus-Plant/tree/main/%F0%9F%AA%B4%203.%20PROCESO%20DE%20UNIFICACI%C3%93N)
+
 [YA ESTAMOS LISTOS PARA NUESTRA SIGUIENTE FASE: PROCESO DE UNIFICACIÓN, ACOMPAÑANOS!](https://github.com/JU4NR0D/Optimus-Plant/tree/main/%F0%9F%AA%B4%203.%20PROCESO%20DE%20UNIFICACI%C3%93N)
 

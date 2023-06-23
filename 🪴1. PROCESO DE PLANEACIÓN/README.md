@@ -22,13 +22,38 @@ A continuación se ilustra un diagrama básico de caja negra, sin tecnología es
 
 # Asignación de Materiales
 
-Para llevar a cabo la asignación de materiales en nuestro proyecto, fue necesario realizar una exhaustiva investigación sobre las opciones disponibles y útiles para nuestras necesidades. Las indicaciones proporcionadas por el profesor a cargo, Jhonny Cubides, fueron de gran ayuda para descartar opciones y finalizar la lista de materiales requeridos. Todos estos detalles se condensaron posteriormente en una tabla de Excel, que facilitó la organización y visualización de la información relevante.
+Para asignar los materiales a utilizar en nuestro proyecto, fue necesario realizar una exhaustiva investigación sobre las opciones disponibles y útiles para nuestras necesidades. Las indicaciones proporcionadas por el profesor a cargo, Jhonny Cubides, fueron de gran ayuda para descartar opciones y finalizar la lista de materiales requeridos. Todos estos detalles se condensaron posteriormente en una tabla de Excel, que facilitó la organización y visualización de la información relevante.
 
 La tabla de Excel incluye no solo la tecnología seleccionada, sino también los argumentos que respaldan su elección, el precio estimado y una referencia de precio para la compra. Esta tabla nos permite tener un panorama completo de los materiales necesarios, así como un seguimiento claro de los costos asociados.
 
 A continuación se adjunta la tabla de excel en formato PDF para facilitar su lectura: [ASIGNACIÓN DE MATERIALES, TABLA DE EXCEL.pdf](https://github.com/JU4NR0D/Optimus-Plant/files/11843883/ASIGNACION.DE.MATERIALES.TABLA.DE.EXCEL.pdf)
 
+Con esta información detallada, podemos proceder con el proceso de adquisición de materiales de manera eficiente y asegurarnos de contar con los recursos necesarios para la ejecución exitosa de nuestro proyecto.
 
 # Diagrama de Caja Negra - Con Tecnología
+
+Una vez ya seleccionados los materiales a utilizar, se realiza otro diagrama de Caja Negra, esta vez con la tecnologia clara.
+
+
+# Tableros de Apoyo
+
+A continuación, se presentan las imágenes correspondientes al trabajo realizado en clase, donde se analizó junto al profesor la forma en que se conectarán los componentes del proyecto, especificando los pines a utilizar y sus características relevantes.
+
+Imagen 1: Conexiones de los componentes del proyecto
+![WhatsApp Image 2023-06-22 at 11 19 18 PM](https://github.com/JU4NR0D/Optimus-Plant/assets/136518038/6ac7a75b-c7b5-496d-a855-ef0920a73430)
+
+
+En esta imagen, se muestra el diagrama de conexiones de los componentes del proyecto. Durante la sesión de clase, junto al profesor, se discutió y determinó la forma óptima de interconectar los diferentes elementos, teniendo en cuenta sus funcionalidades y requisitos técnicos. Se asignaron pines específicos y se detallaron las características necesarias para una correcta comunicación entre los componentes.
+
+Imagen 2: Lista de tareas para la fase de diseño y realización del proyecto
+![WhatsApp Image 2023-06-22 at 11 19 18 PM (1)](https://github.com/JU4NR0D/Optimus-Plant/assets/136518038/d7a3fec9-d26e-4642-9a7e-eb22d5cb6555)
+
+
+En esta imagen, se presenta una lista de tareas que se definió en colaboración con el profesor para la fase de diseño y realización del proyecto. Estas tareas son los próximos pasos a seguir y abarcan aspectos como la elaboración de los diseños detallados, la adquisición de materiales restantes, la programación de los componentes, las pruebas de funcionamiento y otras actividades relevantes para avanzar en el desarrollo del proyecto.
+
+Durante la discusión en clase, se establecieron plazos y responsabilidades para cada tarea, con el objetivo de mantener un progreso constante y eficiente en el proyecto. Esta lista de tareas proporciona una guía clara para los próximos días, asegurando un enfoque estructurado y una gestión efectiva del proyecto.
+
+En conjunto, el análisis de las conexiones de los componentes y la definición de las tareas a realizar en los próximos días nos permiten tener una visión clara y detallada de la fase de diseño y realización del proyecto. Con esta información, estamos preparados para avanzar con confianza y seguir alcanzando los objetivos establecidos.
+
 
 

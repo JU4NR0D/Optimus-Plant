@@ -46,6 +46,8 @@ Entre las características principales de la placa, se destacan:
 - Conexiones claras: Las conexiones entre los componentes se realizaron de manera clara y precisa, asegurando un flujo adecuado de la información y minimizando la posibilidad de interferencias o cortocircuitos.
 - Ruteo optimizado: Se tuvo en cuenta la ubicación de los componentes y las rutas de señal para lograr un ruteo eficiente, evitando cruces innecesarios y garantizando un buen rendimiento del circuito. Además de garantizar las reglas de ruteo, donde VCC y GND tenían un ancho de vía de 1.6mm y las demás señales tenían 1.2mm
 
+# Fabricación
+
 Se manda a fabricar con Yahiko electronica, donde nos pedían los archivos: Gerber con los drilling holes y PDF de la placa, adjuntos en este repositorio.
 [Gerber fabricación de placa](https://github.com/JU4NR0D/Optimus-Plant/tree/main/%F0%9F%AA%B4%202.%20PROCESO%20DE%20DISE%C3%91O/3.%20%F0%9F%8C%BFPCB/2.%20%F0%9F%8C%B1%20GERBER%20PARA%20FABRICACI%C3%93N) Y [PDF fabricación de placa](https://github.com/JU4NR0D/Optimus-Plant/tree/main/%F0%9F%AA%B4%202.%20PROCESO%20DE%20DISE%C3%91O/3.%20%F0%9F%8C%BFPCB/3.%20%F0%9F%8C%B1%20PDF%20PARA%20FABRICACI%C3%93N). Esperando que quede así:
 

@@ -10,6 +10,8 @@ La ayuda y orientación recibida en la clase de Taller de Electrónica resultó 
 
 Gracias a las instrucciones y consejos proporcionados en el taller, pudimos rectificar esta situación. Implementamos un nuevo diseño que incluía un amplificador de sonido, lo cual mejoró significativamente la calidad y potencia del sonido emitido. Además, realizamos una selección más acertada de componentes y optamos por un sensor de humedad del suelo capacitivo, que resultó ser más duradero y ofrecía un precio similar al anterior.
 
+IMAGEN DE DIAGRAMA DE CAJA NEGRA OBSOLETO:
+
 ![SENSOR_DE_TEMPERATURA](https://github.com/JU4NR0D/Optimus-Plant/assets/136518038/40ecc0da-0da0-4ac8-a843-f1d1065c57ea)
 
 

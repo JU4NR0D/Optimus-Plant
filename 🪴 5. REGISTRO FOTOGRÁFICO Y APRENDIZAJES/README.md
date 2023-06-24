@@ -1,4 +1,4 @@
-# Errores que se fueron corrigiendo
+# Retos del proyecto
 
 En relación al proyecto, es importante destacar que la perfección no se logró en su primer intento. Surgieron diversos ajustes y cambios que fueron necesarios para llevarlo a cabo exitosamente. Sin embargo, estos desafíos fueron abordados con gran interés y compromiso por parte del equipo y el profesor Jhonny Cubides.
 

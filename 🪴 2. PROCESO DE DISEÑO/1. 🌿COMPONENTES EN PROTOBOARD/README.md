@@ -2,7 +2,10 @@
 
 En la fase de diseño, nuestro objetivo principal es comprender las conexiones y funcionalidades de cada componente de forma individual en relación a la placa ESP32 en la protoboard. Para lograrlo, realizamos un análisis detallado de las características de cada componente, incluyendo su voltaje, la información que genera o necesita, y otros aspectos relevantes.
 
-A continuación, se presentan imágenes de cada componente junto con una breve explicación de su función:
+A continuación, se muestra una imágen de los componentes y se explicará cada componente con una breve explicación de su función:
+
+![WhatsApp Image 2023-06-24 at 5 20 09 PM](https://github.com/JU4NR0D/Optimus-Plant/assets/136518038/ed6ebcd6-33b1-4b65-bcf5-cb6d327b220a)
+
 
 Sensor de Humedad Capacitivo: Este sensor permite medir la humedad relativa del ambiente utilizando la técnica de capacitancia. Proporciona una salida analógica, por tanto tendrá conexiones con el pin GPIO2, los otros dos cables son GND (Cable Negro) y VCC (Cable Rojo). Es necesario establecer la conexión adecuada entre el sensor de humedad capacitivo y la ESP32 para recibir y procesar estos datos, esto se hace a través de la programación del microcontrolador, funciona bien con 3.3V.
 

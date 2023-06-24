@@ -34,6 +34,6 @@ Buzzer de Sonido: El buzzer se utiliza para generar sonidos audibles. Se puede u
 
 Estas imágenes y explicaciones proporcionan una visión general de cada componente y su función en relación con la placa ESP32. El conocimiento detallado de las conexiones y características individuales de cada componente nos permitirá realizar un diseño preciso y eficiente del sistema posteriormente en la etapa de elaboración de la PCB.
 
-A través de este enlace te diriges a la carpeta que contiene la programación de cada componente por separado: [LINK A CARPETA →](https://github.com/JU4NR0D/Optimus-Plant/tree/main/%F0%9F%AA%B4%202.%20PROCESO%20DE%20DISE%C3%91O/2.%20%F0%9F%8C%BFPROGRAMAS)
+A través de este enlace te diriges a la carpeta que contiene la programación de cada componente por separado: [LINK A CARPETA →](https://github.com/JU4NR0D/Optimus-Plant/tree/main/%F0%9F%AA%B4%202.%20PROCESO%20DE%20DISE%C3%91O/2.%20%F0%9F%8C%BFPROGRAMAS%20INDIVIDUALES%20POR%20COMPONENTE)
 
 O puedes ver el proceso de elaboración de la PCB en este otro link: [LINK PCB→](https://github.com/JU4NR0D/Optimus-Plant/tree/main/%F0%9F%AA%B4%202.%20PROCESO%20DE%20DISE%C3%91O/3.%20%F0%9F%8C%BFPCB)

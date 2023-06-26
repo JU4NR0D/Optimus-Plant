@@ -38,7 +38,9 @@ Afortunadamente, contamos con la ayuda del profesor Jhonny, quien nos brindó su
 
 Sin embargo, nuestra mala suerte no terminó ahí. Durante el proceso de programación, el puerto USB de la placa se desprendió, generando nuevamente un inconveniente, que a pesar de nuestros intentos por repararlo utilizando diferentes métodos, lamentablemente resultó ser un caso perdido.
 
-**Insertar foto
+Imagen de ESP ya sin arreglo alguno:
+![WhatsApp Image 2023-06-25 at 8 53 00 PM](https://github.com/JU4NR0D/Optimus-Plant/assets/136518038/65c65f8c-d707-4ce1-8858-6ced491c2586)
+
 
 Estos incidentes nos enseñaron la importancia de investigar y adquirir componentes de calidad, así como la necesidad de contar con soporte técnico confiable. Además, nos recordaron la importancia de tener alternativas y soluciones de respaldo en caso de enfrentar dificultades técnicas imprevistas.
 
@@ -55,16 +57,10 @@ Debido a que existían errores como estos (Retroalimentación Ing. Johnny Cubide
 Posteriormente con orientación de videos en Youtube y el profesor encargado, se logró realizar esta PCB de manera correcta. (VER SECCIÓN 2.3)
 
 
-## Reto #5
+## Reto #5: Correción diseño para imprimir
+
+La impresión en Yahiko fue un proceso interesante, ya que era nuestro primer acercamiento a lo que era el mandar a hacer una PCB. Al hacerlo, nos pidieron archivos gerber con drilling holes y en pdf, sin embargo nuestro primer modelo que enviamos que fue este: [PDF_PCB (1).pdf](https://github.com/JU4NR0D/Optimus-Plant/files/11863805/PDF_PCB.1.pdf), un diseño un tanto diferente a lo que tenemos ahora, que se puede revisar en la carpeta de PCB.
+
+El error con este diseño era que según Yahiko se debía: "Separar la capa de tierra de las pistas por que esta muy unido y quedaria en corto", ayudándonos a prevenir un incidente a futuro. De forma que el nuevo ruteo se encamino a esa contienda de no cruzar por ningún motivo esas pistas, o que queden estrechas.
 
 
-## Reto #6
-
-
-## Reto #7
-
-
-## Reto #8
-
-
-## Reto #3

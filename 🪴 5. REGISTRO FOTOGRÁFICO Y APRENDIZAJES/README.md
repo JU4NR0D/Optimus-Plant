@@ -63,4 +63,14 @@ La impresión en Yahiko fue un proceso interesante, ya que era nuestro primer ac
 
 El error con este diseño era que según Yahiko se debía: "Separar la capa de tierra de las pistas por que esta muy unido y quedaria en corto", ayudándonos a prevenir un incidente a futuro. De forma que el nuevo ruteo se encamino a esa contienda de no cruzar por ningún motivo esas pistas, o que queden estrechas.
 
+## Reto más grande!!!
 
+Por motivos casi salidos de una película, la PCB sufrió muchos daños por lo que montar el circuito final en esta fue imposible. Para empezar, se soldó directamente a ella, omitiendo el uso de una base. Además existían muchos daños debidos a la tecnología que no estaba en nuestras manos, por infortunio, tampoco se logró adquirir nuevamente la PCB, a razones de tiempos. Se adjunta imagen de la PCB
+
+
+![WhatsApp Image 2023-06-28 at 11 31 21 PM](https://github.com/JU4NR0D/Optimus-Plant/assets/136518038/ab6f8664-e695-4c62-94f1-76eba3448b8b)
+
+![pcb broken](https://github.com/JU4NR0D/Optimus-Plant/assets/136518038/48ae58bd-70f1-4996-932a-70d25caa7031)
+
+
+Lo interesante de esto es que pudimos acercarnos a los laboratorios de mecatronica y experimentar dessoldando los componentes para salvarlos, haciendo uso de distintas máquinas y metiéndonos en este mundo aún más. Con esto, finiquitamos nuestro proyecto. Se aprendieron lecciones invaluables que nos servirán en un futuro.

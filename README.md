@@ -9,4 +9,13 @@ En el siguiente póster se encuentra más información del proyecto, que se prev
 
 ![image](https://github.com/JU4NR0D/Optimus-Plant/assets/136518038/afa15fbc-5ae5-46ca-8417-268f5ca3fcc1)
 
+### El producto final!!
+
+Este es el producto final, si quieres acompañarnos por el proceso que tuvimos, revisa la documentación adjunta!:
+
+https://github.com/JU4NR0D/Optimus-Plant/assets/136518038/571dbfa7-c79b-4fa8-bab8-38f8d22d1665
+
+
+
+
 Para revisar una presentación más detallada del proyecto, puedes ingresar aquí: [EXPOSICION DEL PROYECTO.pdf](https://github.com/JU4NR0D/Optimus-Plant/files/11845931/3.EXPOSICION.DEL.PROYECTO.pdf)
